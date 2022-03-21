@@ -1,0 +1,26 @@
+{
+    "name": "Andrew Manuel",
+    "website": "andrewmanuel.blog",
+    "linkedin": "https://www.linkedin.com/in/andrewmanuel/",
+    "github": "drainodrew",
+    "email": "w.andrewmanuel@gmail.com",
+    "resume": "https://tomatohammado.github.io/assets/Malik-Hammad-Resume.pdf",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Vue",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Wordpress",
+        "Drupal"
+    ],
+    "otherSkills": [
+        "Unagi",
+        "Five Finger Fillet",
+        "Bridge"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "drainodrew-resume",
+  "version": "1.0.0",
+  "description": "resume test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drainodrew/resume.git"
+  },
+  "keywords": [
+    "resume"
+  ],
+  "author": "Andrew Manuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drainodrew/resume/issues"
+  },
+  "homepage": "https://github.com/drainodrew/resume#readme"
+},
+"bin": {
+    "resume-me": "./index.js"
+  }
